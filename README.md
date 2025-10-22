@@ -4,10 +4,15 @@ This project applies K-Means clustering on the Mall Customers Dataset to group c
 ⚙️ Steps
 
 Import & Load Data – Read Mall_Customers.csv.
+
 Preprocess – Encode gender using LabelEncoder.
+
 Select Features – ['Gender', 'Annual Income (k$)', 'Spending Score (1-100)'].
+
 Elbow Method – Determine optimal number of clusters.
+
 Apply K-Means – Use `KMeans`(n_clusters=2) from `scikit-learn`.
+
 Visualize – Create a 3D scatter plot using `Matplotlib`.
 
  ##📈 Output
