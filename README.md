@@ -24,7 +24,7 @@ The 3D visualization clearly shows customer grouping patterns
 
 Python, Pandas, Matplotlib (3D), Scikit-learn
 
-##🚀 Run
+## Install
 ```
 pip install pandas
 pip install matplotlib
