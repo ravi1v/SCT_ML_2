@@ -15,7 +15,7 @@ Apply K-Means – Use `KMeans`(n_clusters=2) from `scikit-learn`.
 
 Visualize – Create a 3D scatter plot using `Matplotlib`.
 
- ##📈 Output
+ ## 📈 Output
 Customers are segmented into 5 distinct clusters.
 The 3D visualization clearly shows customer grouping patterns
 
